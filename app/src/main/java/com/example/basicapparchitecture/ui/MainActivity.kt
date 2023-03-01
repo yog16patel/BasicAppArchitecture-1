@@ -1,4 +1,4 @@
-package com.example.simpleappforinterview.ui
+package com.example.basicapparchitecture.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
